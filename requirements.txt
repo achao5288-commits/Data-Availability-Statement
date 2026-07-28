@@ -1,0 +1,5 @@
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+# kaiwu-sdk>=1.2.0  # Uncomment if using real CIM hardware (requires Boson Quantum account)
